@@ -4,6 +4,9 @@ Authors:
 	*Gideon Tettehfio
 	*Wilfred Mandela
 
+PROJECT DESCRIPTION
+Write your own printf function. _printf is a custom implementation of the C programming function printf.
+
 REQUIREMENTS
 
 
