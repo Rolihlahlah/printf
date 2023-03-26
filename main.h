@@ -4,6 +4,10 @@
 #include <stdio.h>
 #include <unistd.h>
 
+/**
+ * Project by Gideon Tettehfio and Wilfred Mandela
+ */
+
 #define UNUSED(x) (void)(x)
 #define BUFF_SIZE 1024
 
